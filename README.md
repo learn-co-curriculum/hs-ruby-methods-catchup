@@ -20,7 +20,6 @@ end
 def say_hi
   puts "hi"
 end
-
 ```
 * To get a method to run, you must call it. *To call a method, you simply write the name of the method after you've defined it.*
 

@@ -1,9 +1,4 @@
----
-tags: kids, ruby, methods, arguments
-languages: ruby
-level: 1
-type: catchup
----
+
 ## Ruby Methods Study Guide
 
 ### Introduction

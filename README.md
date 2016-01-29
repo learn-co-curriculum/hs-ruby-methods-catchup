@@ -97,4 +97,4 @@ Feel like you're getting the hang of it? Want more practice. Just do these catch
 
 2. Ruby Monk explains what [a method is](https://rubymonk.com/learning/books/1-ruby-primer/chapters/19-ruby-methods/lessons/57-being-methodical) and how to [call a method](https://rubymonk.com/learning/books/1-ruby-primer/chapters/19-ruby-methods/lessons/69-new-lesson).
 
-<a href='https://learn.co/lessons/hs-ruby-methods-catchup' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby-methods-catchup' title='Ruby Methods Study Guide'>Ruby Methods Study Guide</a> on Learn.co and start learning to code for free.</p>
